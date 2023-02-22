@@ -6,6 +6,8 @@ public class GitTest {
 		System.out.println("this is just a test");
 		
 		"hello"
+		
+		//Push code to repository 
 	}
 	
 }
