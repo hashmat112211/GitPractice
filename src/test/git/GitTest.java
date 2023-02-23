@@ -12,6 +12,7 @@ public class GitTest {
 		
 		//push code to feature branch 
 		
+		System.out.println("test");
 	}
 	
 }
